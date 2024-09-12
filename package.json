@@ -1,0 +1,22 @@
+{
+  "name": "evaluacion-m6-s3",
+  "version": "1.0.0",
+  "description": "drilling: celular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "moment",
+    "lodash",
+    "callback",
+    "objetos"
+  ],
+  "author": "Daniel Bustos O.",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1"
+  }
+}
